@@ -4,13 +4,6 @@
 
 ---
 
-## 🌐 Connect with me
-<!-- Add links here later -->
-
----
-
-## 🧰 Languages and Tools
-
 <p align="left">
   <a href="https://appwrite.io" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" width="40" height="40"/>
