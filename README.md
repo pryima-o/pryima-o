@@ -2,6 +2,8 @@
 
 ### A passionate web developer and promising information security specialist
 
+I focus on developing custom solutions and integrating existing technologies into scalable and efficient systems.
+
 
 <p align="left">
   <a href="https://appwrite.io" target="_blank">
