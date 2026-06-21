@@ -2,7 +2,6 @@
 
 ### A passionate web developer and promising information security specialist
 
----
 
 <p align="left">
   <a href="https://appwrite.io" target="_blank">
